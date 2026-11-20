@@ -1,0 +1,63 @@
+{
+  "id": "helluva-boss",
+  "title": "Helluva Boss",
+  "description": "Official Vivziepop uploads, Season 1.",
+  "tracks": [
+    {
+      "title": "S1E1 - Murder Family",
+      "artist": "Vivziepop",
+      "album": "Helluva Boss · Season 1",
+      "video_id": "el_PChGfJN8",
+      "duration_seconds": 822,
+      "thumbnail_url": "https://i.ytimg.com/vi/el_PChGfJN8/hqdefault.jpg"
+    },
+    {
+      "title": "S1E2 - Loo Loo Land",
+      "artist": "Vivziepop",
+      "album": "Helluva Boss · Season 1",
+      "video_id": "kpnwRg268FQ",
+      "duration_seconds": 973,
+      "thumbnail_url": "https://i.ytimg.com/vi/kpnwRg268FQ/hqdefault.jpg"
+    },
+    {
+      "title": "S1E3 - Spring Broken",
+      "artist": "Vivziepop",
+      "album": "Helluva Boss · Season 1",
+      "video_id": "RghsgkZKedg",
+      "duration_seconds": 1046,
+      "thumbnail_url": "https://i.ytimg.com/vi/RghsgkZKedg/hqdefault.jpg"
+    },
+    {
+      "title": "S1E4 - C.H.E.R.U.B",
+      "artist": "Vivziepop",
+      "album": "Helluva Boss · Season 1",
+      "video_id": "1ZFseYPmkAk",
+      "duration_seconds": 915,
+      "thumbnail_url": "https://i.ytimg.com/vi/1ZFseYPmkAk/hqdefault.jpg"
+    },
+    {
+      "title": "S1E5 - The Harvest Moon Festival",
+      "artist": "Vivziepop",
+      "album": "Helluva Boss · Season 1",
+      "video_id": "h2ZmVAdezF8",
+      "duration_seconds": 1084,
+      "thumbnail_url": "https://i.ytimg.com/vi/h2ZmVAdezF8/hqdefault.jpg"
+    },
+    {
+      "title": "S1E6 - Truth Seekers",
+      "artist": "Vivziepop",
+      "album": "Helluva Boss · Season 1",
+      "video_id": "yXErLiSbxXQ",
+      "duration_seconds": 1349,
+      "thumbnail_url": "https://i.ytimg.com/vi/yXErLiSbxXQ/hqdefault.jpg"
+    },
+    {
+      "title": "S1E7 - Ozzie's",
+      "artist": "Vivziepop",
+      "album": "Helluva Boss · Season 1",
+      "video_id": "8zyGQquL8VM",
+      "duration_seconds": 1009,
+      "thumbnail_url": "https://i.ytimg.com/vi/8zyGQquL8VM/hqdefault.jpg"
+    }
+  ]
+}

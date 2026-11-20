@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "playlists": [
+    {
+      "id": "helluva-boss",
+      "title": "Helluva Boss",
+      "path": "playlists/helluva-boss/playlist.json"
+    }
+  ]
+}
