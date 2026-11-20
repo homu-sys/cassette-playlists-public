@@ -1,0 +1,71 @@
+{
+  "id": "helluva-boss-songs",
+  "title": "Helluva Boss - Songs",
+  "description": "Official Helluva Boss music videos.",
+  "tracks": [
+    {
+      "title": "Just Look My Way",
+      "artist": "Vivziepop",
+      "album": "Helluva Boss · Songs",
+      "video_id": "rATbtwj1qls",
+      "duration_seconds": 275,
+      "thumbnail_url": "https://i.ytimg.com/vi/rATbtwj1qls/hqdefault.jpg"
+    },
+    {
+      "title": "Klown B*tch",
+      "artist": "Vivziepop",
+      "album": "Helluva Boss · Songs",
+      "video_id": "nyYUc89dkq4",
+      "duration_seconds": 75,
+      "thumbnail_url": "https://i.ytimg.com/vi/nyYUc89dkq4/hqdefault.jpg"
+    },
+    {
+      "title": "2 Minutes Notice",
+      "artist": "Vivziepop",
+      "album": "Helluva Boss · Songs",
+      "video_id": "s9HyDRpJrsw",
+      "duration_seconds": 200,
+      "thumbnail_url": "https://i.ytimg.com/vi/s9HyDRpJrsw/hqdefault.jpg"
+    },
+    {
+      "title": "Crooked",
+      "artist": "Vivziepop",
+      "album": "Helluva Boss · Songs",
+      "video_id": "pZiNw3NvdhU",
+      "duration_seconds": 105,
+      "thumbnail_url": "https://i.ytimg.com/vi/pZiNw3NvdhU/hqdefault.jpg"
+    },
+    {
+      "title": "Look at This",
+      "artist": "Vivziepop",
+      "album": "Helluva Boss · Songs",
+      "video_id": "MDB5eFskLBg",
+      "duration_seconds": 165,
+      "thumbnail_url": "https://i.ytimg.com/vi/MDB5eFskLBg/hqdefault.jpg"
+    },
+    {
+      "title": "Oh Millie",
+      "artist": "Vivziepop",
+      "album": "Helluva Boss · Songs",
+      "video_id": "Dz8cpq2PjlQ",
+      "duration_seconds": 96,
+      "thumbnail_url": "https://i.ytimg.com/vi/Dz8cpq2PjlQ/hqdefault.jpg"
+    },
+    {
+      "title": "Rope",
+      "artist": "Prime Video",
+      "album": "Helluva Boss · Songs",
+      "video_id": "iX5ah-63Di4",
+      "duration_seconds": 155,
+      "thumbnail_url": "https://i.ytimg.com/vi/iX5ah-63Di4/hqdefault.jpg"
+    },
+    {
+      "title": "Shark Boy Summer",
+      "artist": "Vivziepop",
+      "album": "Helluva Boss · Songs",
+      "video_id": "-mLSmR58ZaQ",
+      "duration_seconds": 130,
+      "thumbnail_url": "https://i.ytimg.com/vi/-mLSmR58ZaQ/hqdefault.jpg"
+    }
+  ]
+}

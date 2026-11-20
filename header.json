@@ -5,6 +5,21 @@
       "id": "helluva-boss",
       "title": "Helluva Boss",
       "path": "playlists/helluva-boss/playlist.json"
+    },
+    {
+      "id": "helluva-boss-season-2",
+      "title": "Helluva Boss - Season 2",
+      "path": "playlists/helluva-boss-season-2/playlist.json"
+    },
+    {
+      "id": "helluva-boss-songs",
+      "title": "Helluva Boss - Songs",
+      "path": "playlists/helluva-boss-songs/playlist.json"
+    },
+    {
+      "id": "helluva-boss-shorts",
+      "title": "Helluva Boss - Shorts",
+      "path": "playlists/helluva-boss-shorts/playlist.json"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "helluva-boss",
   "title": "Helluva Boss",
-  "description": "Official Vivziepop uploads, Season 1.",
+  "description": "Official Vivziepop uploads, Seasons 1 and 2.",
   "tracks": [
     {
       "title": "S1E1 - Murder Family",
@@ -58,6 +58,102 @@
       "video_id": "8zyGQquL8VM",
       "duration_seconds": 1009,
       "thumbnail_url": "https://i.ytimg.com/vi/8zyGQquL8VM/hqdefault.jpg"
+    },
+    {
+      "title": "S2E1 - The Circus",
+      "artist": "Vivziepop",
+      "album": "Helluva Boss · Season 2",
+      "video_id": "_spuxXnul0U",
+      "duration_seconds": 1385,
+      "thumbnail_url": "https://i.ytimg.com/vi/_spuxXnul0U/hqdefault.jpg"
+    },
+    {
+      "title": "S2E2 - Seeing Stars",
+      "artist": "Vivziepop",
+      "album": "Helluva Boss · Season 2",
+      "video_id": "4J0xFUyz1nw",
+      "duration_seconds": 1260,
+      "thumbnail_url": "https://i.ytimg.com/vi/4J0xFUyz1nw/hqdefault.jpg"
+    },
+    {
+      "title": "S2E3 - Exes and Oohs",
+      "artist": "Vivziepop",
+      "album": "Helluva Boss · Season 2",
+      "video_id": "j1BfO7VlIw4",
+      "duration_seconds": 1508,
+      "thumbnail_url": "https://i.ytimg.com/vi/j1BfO7VlIw4/hqdefault.jpg"
+    },
+    {
+      "title": "S2E4 - Western Energy",
+      "artist": "Vivziepop",
+      "album": "Helluva Boss · Season 2",
+      "video_id": "KJy7T24rhg0",
+      "duration_seconds": 1165,
+      "thumbnail_url": "https://i.ytimg.com/vi/KJy7T24rhg0/hqdefault.jpg"
+    },
+    {
+      "title": "S2E5 - Unhappy Campers",
+      "artist": "Vivziepop",
+      "album": "Helluva Boss · Season 2",
+      "video_id": "lYu1ysDULwA",
+      "duration_seconds": 1260,
+      "thumbnail_url": "https://i.ytimg.com/vi/lYu1ysDULwA/hqdefault.jpg"
+    },
+    {
+      "title": "S2E6 - Oops",
+      "artist": "Vivziepop",
+      "album": "Helluva Boss · Season 2",
+      "video_id": "y1sF6ZeASU0",
+      "duration_seconds": 1620,
+      "thumbnail_url": "https://i.ytimg.com/vi/y1sF6ZeASU0/hqdefault.jpg"
+    },
+    {
+      "title": "S2E7 - Mammon's Magnificent Musical Mid-Season Special",
+      "artist": "Vivziepop",
+      "album": "Helluva Boss · Season 2",
+      "video_id": "rRymSi8SmqA",
+      "duration_seconds": 1830,
+      "thumbnail_url": "https://i.ytimg.com/vi/rRymSi8SmqA/hqdefault.jpg"
+    },
+    {
+      "title": "S2E8 - The Full Moon",
+      "artist": "Vivziepop",
+      "album": "Helluva Boss · Season 2",
+      "video_id": "Fj9YRsV1pEw",
+      "duration_seconds": 1390,
+      "thumbnail_url": "https://i.ytimg.com/vi/Fj9YRsV1pEw/hqdefault.jpg"
+    },
+    {
+      "title": "S2E9 - Apology Tour",
+      "artist": "Vivziepop",
+      "album": "Helluva Boss · Season 2",
+      "video_id": "tLD-OUkYtk4",
+      "duration_seconds": 1315,
+      "thumbnail_url": "https://i.ytimg.com/vi/tLD-OUkYtk4/hqdefault.jpg"
+    },
+    {
+      "title": "S2E10 - Ghostf**kers",
+      "artist": "Vivziepop",
+      "album": "Helluva Boss · Season 2",
+      "video_id": "5DV4IIKwqRI",
+      "duration_seconds": 1645,
+      "thumbnail_url": "https://i.ytimg.com/vi/5DV4IIKwqRI/hqdefault.jpg"
+    },
+    {
+      "title": "S2E11 - Mastermind",
+      "artist": "Vivziepop",
+      "album": "Helluva Boss · Season 2",
+      "video_id": "IoVB5Hn2m_k",
+      "duration_seconds": 1320,
+      "thumbnail_url": "https://i.ytimg.com/vi/IoVB5Hn2m_k/hqdefault.jpg"
+    },
+    {
+      "title": "S2E12 - Sinsmas",
+      "artist": "Vivziepop",
+      "album": "Helluva Boss · Season 2",
+      "video_id": "GisSNuVpbkM",
+      "duration_seconds": 1745,
+      "thumbnail_url": "https://i.ytimg.com/vi/GisSNuVpbkM/hqdefault.jpg"
     }
   ]
 }
